@@ -1,11 +1,10 @@
 # Hi there 👋, I'm **Sazzad Bin Jafor**!
 
 ## 🚀 About Me  
-I'm a **Frontend Developer** specializing in **React.js** and **Next.js**, with growing backend skills in **Node.js** and **MongoDB**. I focus on building beautiful, responsive, and efficient web applications.
+I'm a **Frontend Focused Fullstack Developer** specializing in **React.js** and **Next.js**, with growing backend skills in **Node.js** and **MongoDB**. I focus on building beautiful, responsive, and efficient web applications.
 
 - 🔭 Currently working at **Technonext Ltd**.  
-- 🌱 Improving my skills in **Next.js**, **Node.js**, and state management libraries like **Redux** and **Zustand**.  
-- 💼 Open to freelance opportunities or collaboration projects.  
+- 🌱 Improving my skills in **Next.js**, **TypeScript**, and backend technologies like **NodeJS** and **PHP/Laravel**.  
 - 📫 How to reach me: **sazzadbinjafor@gmail.com**  
 
 ---
